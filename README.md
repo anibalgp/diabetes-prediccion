@@ -16,7 +16,7 @@ de clasificación supervisada aplicados al dataset Pima Indians Diabetes Databas
 
 ## Estructura del repositorio
 
-├── TAIA.ipynb # Notebook principal con todo el análisis
+├── Grupo4_TA_Final.ipynb # Notebook principal con todo el análisis
 ├── diabetes.csv # Dataset Pima Indians Diabetes Database
 └── README.md
 
